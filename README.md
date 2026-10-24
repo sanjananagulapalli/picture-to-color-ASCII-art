@@ -52,7 +52,7 @@ Project Files
 
 How to Use
 
-1. Open the "live website" (https://sanjananagulapalli.github.io/picture-to-colour-ASCII-art/).
+1. Open the "live website" https://sanjananagulapalli.github.io/picture-to-color-ASCII-art/
 2. Select a picture using the image-upload control.
 3. Use the available controls to generate the ASCII artwork.
 4. View the colourful character-based output.
