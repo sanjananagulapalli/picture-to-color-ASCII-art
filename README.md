@@ -73,7 +73,7 @@ cd picture-to-colour-ascii-art
 
 What I Learned
 
-This project provided an opportunity to practise:
+This project provided an opportunity to practice:
 
 - Building a webpage using HTML.
 - Styling a user interface with CSS.
