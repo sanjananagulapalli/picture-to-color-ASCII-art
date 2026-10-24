@@ -1,7 +1,7 @@
 # picture-to-color-ASCII-art
 A browser-based tool that transforms pictures into colorful ASCII art using JavaScript, preserving pixel colors through character mapping.
 
- Live Website: https://sanjananagulapalli.github.io/picture-to-colour-ASCII-art/
+ Live Website: https://sanjananagulapalli.github.io/picture-to-color-ASCII-art/
 
 About the Project
 
